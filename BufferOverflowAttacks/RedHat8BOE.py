@@ -1,3 +1,6 @@
+#Author: Jigyas Sharma
+#Brief Description: Exploit to get root shell from a net cat program which has no stack randomization.
+
 import subprocess
 
 buf =  b""
