@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ropper
+Version: 1.13.8
+Summary: Show information about files in different file formats and find gadgets to build rop chains for different architectures.
+Home-page: http://scoding.de/ropper/
+Author: Sascha Schirra
+Author-email: sashs@scoding.de
+License: BSD
+Platform: UNKNOWN
+Classifier: Topic :: Security
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+
+UNKNOWN
+
