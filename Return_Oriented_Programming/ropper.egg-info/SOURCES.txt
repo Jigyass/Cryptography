@@ -1,7 +1,0 @@
-setup.py
-ropper.egg-info/PKG-INFO
-ropper.egg-info/SOURCES.txt
-ropper.egg-info/dependency_links.txt
-ropper.egg-info/entry_points.txt
-ropper.egg-info/requires.txt
-ropper.egg-info/top_level.txt
